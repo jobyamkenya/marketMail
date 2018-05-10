@@ -61,3 +61,26 @@ font-size: 14px;
 	height: 50px;
     width: 50px;    
 }
+#lastTaskSelect{
+	margin-left: 18px;
+}
+
+#lastTaskSelect select {
+	border:none;
+	line-height: 8em;
+	font-size: 16px
+}
+#lastTaskSelect select.active{
+	border:8px solid #0055ff;
+	padding:10px auto;
+}
+
+
+#lastoptntabs button{
+	margin:10px 0 10px 20px;
+	padding: 5px 15px 5px 15px;
+	border-radius: 3px;
+	
+}
+
+
